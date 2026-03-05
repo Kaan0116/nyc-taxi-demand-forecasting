@@ -2,7 +2,7 @@
 Bu proje, 2015 ve 2016 yıllarına ait milyonlarca satırlık NYC Yellow Taxi verisini kullanarak taksi talebini tahmin etmek amacıyla geliştirilmiştir. Veri işleme aşamasında yüksek performanslı DuckDB kullanılırken; tahminleme aşamasında modern makine öğrenmesi algoritmaları Optuna ile optimize edilmiştir.
 
 🔗 Veri Kaynağı
-Projede kullanılan ham verilere NYC Taxi & Limousine Commission (TLC) Trip Record Data adresinden ulaşılabilir.
+Projede kullanılan ham verilere [NYC Taxi & Limousine Commission (TLC) Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) adresinden ulaşılabilir.
 
 📊 Veri Seti ve İşleme
 Kapsam: 2015 ve 2016 yıllarına ait tam veri setleri üzerinde çalışılmıştır.
